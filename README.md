@@ -25,20 +25,9 @@
 
 ### 📊 Github Stats
 
-<table width="100%">
-  <tr>
-    <td align="center" valign="center" width="50%">
-      <a href="https://www.git-ranker.com">
-        <img src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjcyNDE0NzY5" height="170" alt="Git Ranker" />
-      </a>
-    </td>
-    <td align="center" valign="center" width="50%">
-      <a href="https://github.com/LeeKangRyong">
-        <img src="https://github-readme-stats.vercel.app/api?username=LeeKangRyong&show_icons=true&count_private=true&hide=stars&include_all_commits=true&bg_color=00000000&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff" height="170" alt="LeeKangRyong's GitHub stats" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.git-ranker.com">
+  <img src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjcyNDE0NzY5" width="40%" alt="Git Ranker" />
+</a>
 
 <br />
 <br />
@@ -79,10 +68,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
 </a>
 
----
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=감사합니다&fontSize=30&fontAlignY=60)
-
-
 
 </div>
