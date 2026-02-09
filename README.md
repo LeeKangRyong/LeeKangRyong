@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=서비스%20자체%20만들기를%20좋아하는-nl-프론트엔드%20개발자-nl-이강룡입니다&fontSize=40&animation=fadeIn&fontAlignY=30&descDistance=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=서비스%20만들기%20자체를%20좋아하는-nl-프론트엔드%20개발자-nl-이강룡입니다&fontSize=40&animation=fadeIn&fontAlignY=30&descDistance=20)
 
 ### Introduction
 
