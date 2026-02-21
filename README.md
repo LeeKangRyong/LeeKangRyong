@@ -12,17 +12,6 @@
 
 ---
 
-### 🌱 Github Farm
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=LeeKangRyong&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/LeeKangRyong"
-/>
-</a>
-
-<br />
-<br />
-
 ### 📊 Github Stats
 
 <a href="https://www.git-ranker.com">
