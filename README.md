@@ -1,13 +1,12 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=프론트엔드%20개발자,-nl-이강룡입니다&fontSize=40&animation=fadeIn&fontAlignY=30&descDistance=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=사용자의%20문제를%20기술로%20해결하는-nl-프론트엔드%20개발자,-nl-이강룡입니다&fontSize=40&animation=fadeIn&fontAlignY=30&descDistance=20)
 
 ### Introduction
 
-> 다양한 사람들과 소통하며 사용자에게 가장 가까이 다가가 서비스를 제공한다는 점에서,
+> 사용자와 가장 맞닿은 채 다양한 직군과 소통한다는 점에서, **프론트엔드를 가장 중요하게 생각합니다.**
 >
-> **프론트엔드**를 가장 중요하게 생각합니다.
-
+> **하나의 Pain Point를 하나의 방법으로 문제 해결**이라는 법칙으로 서비스 기획하는 것을 중요시합니다. 
 ---
 
 ### 📊 Github Stats
